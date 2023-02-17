@@ -74,7 +74,7 @@
   class="text-xl text-neutral-200 bg-neutral-700 h-screen w-screen flex flex-col justify-center"
 >
   <div
-    class=" flex flex-col justify-center items-start container mx-auto gap-5"
+    class=" flex flex-col justify-center items-start container mx-auto gap-5 px-5"
   >
     <h1 class="text-2xl text-neutral-200 font-semibold">Classic facts:</h1>
     {#each ratios as ratio}
